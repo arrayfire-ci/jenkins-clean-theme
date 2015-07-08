@@ -539,6 +539,56 @@ td.healthReport a.build-health-link {
     background-size: contain!important;
 }
 
+td.healthReport[data="0"] a.build-health-link {
+    background: url(img/cloud00.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="20"] a.build-health-link {
+    background: url(img/cloud20.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="25"] a.build-health-link {
+    background: url(img/cloud20.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="33"] a.build-health-link {
+    background: url(img/cloud40.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="40"] a.build-health-link {
+    background: url(img/cloud40.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="50"] a.build-health-link {
+    background: url(img/cloud60.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="60"] a.build-health-link {
+    background: url(img/cloud60.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="66"] a.build-health-link {
+    background: url(img/cloud80.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="75"] a.build-health-link {
+    background: url(img/cloud80.png) no-repeat!important;
+    background-size: contain!important;
+}
+
+td.healthReport[data="80"] a.build-health-link {
+    background: url(img/cloud80.png) no-repeat!important;
+    background-size: contain!important;
+}
+
 td.healthReport[data="100"] a.build-health-link {
     background: url(img/sun.png) no-repeat!important;
     background-size: contain!important;
