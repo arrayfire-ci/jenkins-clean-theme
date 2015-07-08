@@ -594,7 +594,7 @@ td.healthReport[data="100"] a.build-health-link {
     background-size: contain!important;
 }
 
-td a[href$="console"] {
+td a[href$="/console"] {
     background: url(img/console.png) no-repeat!important;
     background-size: contain!important;
     padding-left: 10px;
@@ -603,11 +603,11 @@ td a[href$="console"] {
     padding-right: 20px;
 }
 
-td a[href$="console"] img {
+td a[href$="/console"] img {
     display: none!important;
 }
 
-td a[href$="configure"] {
+td a[href$="/configure"] {
     background: url(img/manage.png) no-repeat!important;
     background-size: contain!important;
     padding-left: 10px;
@@ -616,7 +616,7 @@ td a[href$="configure"] {
     padding-right: 20px;
 }
 
-td a[href$="configure"] img {
+td a[href$="/configure"] img {
     display: none!important;
 }
 
