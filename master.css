@@ -597,9 +597,9 @@ td.healthReport[data="100"] a.build-health-link {
 td a[href$="console"] {
     background: url(img/console.png) no-repeat!important;
     background-size: contain!important;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    padding-top: 12px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
     padding-right: 20px;
 }
 
@@ -607,13 +607,25 @@ td a[href$="console"] img {
     display: none!important;
 }
 
+td a[href$="configure"] {
+    background: url(img/manage.png) no-repeat!important;
+    background-size: contain!important;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-right: 20px;
+}
+
+td a[href$="configure"] img {
+    display: none!important;
+}
 
 #projectstatus td a[href*="build?"] {
     background: url(img/build.png) no-repeat!important;
     background-size: contain!important;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    padding-top: 12px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
     padding-right: 20px;
 }
 
