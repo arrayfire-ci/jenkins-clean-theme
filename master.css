@@ -261,6 +261,7 @@ td.inactive:hover {
     padding-left: 0!important;
     padding-right: 0!important;
     height: 100%!important;
+    width: 18%;
     position: absolute!important;
 }
 
@@ -269,6 +270,7 @@ td.inactive:hover {
     margin-left: 10px!important;
     height: 100%!important;
     float: right!important;
+    width: 82%;
 }
 
 table {
