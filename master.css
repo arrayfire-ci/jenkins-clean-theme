@@ -3,10 +3,14 @@ body {
 }
 
 #jenkins-head-icon {
-  display: none !important;
+  /*display: none !important;*/
+  height: 40px;
 }
 #jenkins-name-icon {
-  display: none !important;
+  /*display: none !important;*/
+  height: 32px;
+  padding-left: 10px;
+  padding-bottom: 2px;
 }
 #main-panel > ul:nth-child(8) > li > img {
     margin-right: 10px;
