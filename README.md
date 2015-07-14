@@ -1,20 +1,20 @@
-jenkins-clean-theme
+jenkins-clean-theme - ArrayFire Style
 =================
 
-This is a simple theme for jenkins using the "simple-theme-plugin"
+THis is a modified version of the [jenkins-clean-theme](https://github.com/Dakota628/jenkins-clean-theme) tuned for [ArrayFire's CI](http://ci.arrayfire.org).
 
-A demo can be seen here: http://jqa.me:8080/
-
-Dependencies
+Installation
 =================
 
 This theme depends on the jenkins "simple-theme-plugin". The jquery for jenkins plugin is also recommended in order to use the sticky footer.
 
+Once the theme is installed, go to Manage Jenkins -> Configure System. Search for "theme".
+* For theme CSS use http://ci.arrayfire.org/userContent/jenkins-theme/master.css.
+* For theme JS use http://ci.arrayfire.org/userContent/jenkins-theme/master.js.
+
+And that's it.
+
 Credits
 =================
 
-Thanks to hawkfalcon (https://github.com/hawkfalcon/) for the icons.
-
-Thanks to Chris Kempson (https://github.com/chriskempson/base16) for the base16 color scheme used in the console.
-
-![Screenshot](http://jqa.me/jenkins/screenshot.png)
+Thanks to the original contributors.
