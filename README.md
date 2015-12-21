@@ -10,7 +10,6 @@ This theme depends on the jenkins **simple-theme-plugin**. The jquery for jenkin
 
 Once the theme is installed, go to Manage Jenkins -> Configure System. Search for "theme".
 * For theme CSS use http://ci.arrayfire.org/userContent/jenkins-theme/master.css.
-* For theme JS use http://ci.arrayfire.org/userContent/jenkins-theme/master.js.
 
 And that's it.
 
